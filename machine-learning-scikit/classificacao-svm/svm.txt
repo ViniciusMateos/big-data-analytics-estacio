@@ -1,0 +1,2 @@
+
+As técnicas de classificação empregadas nos exemplos são a máquina de vetor de suporte (do inglês Support Vector Machine – SVM) e a árvore de decisão.
